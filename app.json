@@ -1,3 +1,12 @@
 {
-  "expo": {}
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "8a1b107e-2f8d-4edf-9147-8c59b8a0be2e"
+      }
+    },
+    "android": {
+      "package": "com.joemarrr.tictactoe2"
+    }
+  }
 }
